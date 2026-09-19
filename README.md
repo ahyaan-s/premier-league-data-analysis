@@ -53,7 +53,8 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 ### 4. Add your API token
-Create a .env like example and replace 'your_token_here' with your token from football-data.org
+Create a .env and add: FOOTBALL_DATA_API_TOKEN=your_token_here
+Replace 'your_token_here' with your token from football-data.org
 
 ### 5. Run
 ```bash
