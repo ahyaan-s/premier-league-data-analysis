@@ -32,7 +32,7 @@ https://api.football-data.org/v4/competitions/PL/matches
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/ahyaan-s/premier-league-data-analysis.git
-cd premier-league-analysis
+cd premier-league-data-analysis
 ```
 ### 2. Create a virtual environment
 ```bash
