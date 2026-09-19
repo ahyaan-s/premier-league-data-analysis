@@ -37,14 +37,23 @@ cd premier-league-data-analysis
 ### 2. Create a virtual environment
 ```bash
 python3 -m venv .venv
+```
+macOS/Linux:
+```
 source .venv/bin/activate
 ```
+Windows:
+```
+.venv/Scripts/activate
+```
+
 ### #3. Install dependencies
 ```bash
-pip install -r requirements.txt
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
 ```
 ### 4. Add your API token
-in .env, replace 'your_token_here' with your token from football-data.org
+Create a .env like example and replace 'your_token_here' with your token from football-data.org
 
 ### 5. Run
 ```bash
