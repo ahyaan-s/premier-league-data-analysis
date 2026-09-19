@@ -71,9 +71,9 @@ Arsenal FC vs Chelsea FC:
 
 ### League-Wide Analysis
 The distribution of match outcomes are calculated:
-- Home win probability
-- Away win probability
-- Draw probability
+- Home win percentage
+- Away win percentage
+- Draw percentage
 
 For example:
 ```
@@ -84,3 +84,12 @@ Draw Probability: 34.1%
 
 ## Visualizations
 The program displays and saves an image visualizing a sample of the stats:
+<img width="4470" height="2965" alt="league_analysis" src="https://github.com/user-attachments/assets/bf3786cd-200c-4680-b0d7-838336a542ec" />
+
+
+## Future Improvements
+- Add more advanced statistics
+- Allow tool to be easily repurposed for other sports/leagues
+- Building a web interfaces
+- Making the visualizations interactive
+- Explore predictive modelling
